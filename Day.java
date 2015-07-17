@@ -9,6 +9,11 @@ public class Day
       @param aMonth a month between 1 and 12
       @param aDate a date between 1 and 31
    */
+   
+   public void Teste() {
+	   System.out.println("CAGANDO O CÓDIGO!");
+   }
+   
    public Day(int aYear, int aMonth, int aDate)
    {
       year = aYear;
